@@ -17,7 +17,7 @@ a{
 	width: 300px;
 	height: 350px;
 	margin: 0 50px;
-			background-color:#dfffde ;
+	background-color:#dfffde ;
 	border: 10px solid burlywood;
 	border-radius: 20px;
 
@@ -38,7 +38,7 @@ a{
 	margin: 0 70;
 }
 .borde{
-		background-color:#dfffde ;
+	background-color:#dfffde ;
 	border: 10px solid burlywood;
 	border-radius: 20px;
 }.menu-horizontal{
